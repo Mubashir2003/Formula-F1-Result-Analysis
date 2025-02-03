@@ -1,9 +1,11 @@
 # Formula-F1-Result-Analysis
+
 **Overview**
 
 This project scrapes, analyzes, and visualizes 10 years of Formula 1 race data (2014-2024), uncovering trends in champions, lap times, and team performance. Using Python for data scraping and analysis, and Power BI for dynamic visualizations, this repository provides a comprehensive look into the evolution of F1 racing.
 
 **Key Features**
+
 Data Collection: Scraped 10 years of F1 race data (2014-2024) using Python and web scraping tools.
 
 Trend Analysis: Analyzed trends in champions, lap times, and team performance.
@@ -13,6 +15,7 @@ Dynamic Visualizations: Created interactive dashboards and charts in Power BI fo
 Tools Used: Python, Power BI, Web Scraper (Free Chrome Extension), Pandas, Matplotlib, and more.
 
 **Results**
+
 
 The analysis of 10 years of Formula 1 race data (2014-2024) revealed several key insights into the evolution of the sport:
 
